@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+body {
+    background-color: #08acfc;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Neucha', cursive;
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+#corn-gif:hover {
+    -webkit-transform: rotate(15deg) scale(1.4);
+    transform: rotate(15deg) scale(1.4);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+#alien-dance {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
